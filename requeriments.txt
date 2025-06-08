@@ -1,0 +1,4 @@
+ultralytics==8.0.178
+opencv-python
+pyttsx3
+numpy
