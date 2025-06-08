@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png" alt="python" height="100"/>
   <img src="https://cdn.sanity.io/images/k7elabj6/production/43ed2a0bd025b8f5d7ef611cc85726af8c3da57a-252x264.svg" alt="yolov8" height="100"/>
-  <img src="https://security.roboflow.com/api/share/d560a04b-1859-4677-a8a3-e0a72dc70231/logo.png" alt="roboflow" height="100"/>
+  <img src="icon/logo.png" alt="roboflow" height="100"/>
 </p>
 
 # Contexto
@@ -50,9 +50,9 @@ Se utlizó un dataset con mas de 700 imágenes que provienen de un workspace de 
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/asl-yolov8-detector.git
-cd asl-yolov8-detector
-
+git clone https://github.com/ViCode321/ia-sign-language.git
+cd ia-sign-language
+```
 
 2. Crea un entorno virtual:
 ```bash
