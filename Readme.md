@@ -69,7 +69,11 @@ source myvenv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-5. Ejecutar
+5. Descargar dataset generado por Modelo de GoogleColab
+```bash
+/data/best.pt
+```
+6. Ejecutar
 ```bash
 python ia_sign_reader.py
 ``` 
